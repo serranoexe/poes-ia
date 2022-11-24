@@ -1,2 +1,2 @@
 # poesIA
-Poesía creada por Inteligencia Artificial al estilo de diversos autores. 
+Poetry created by an Artificial Inteligence, using the GPT-3 model.  
