@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>PoesIA</title>
+</head>
+<body>
+
+<h1>Pagina de inicio</h1>
+
+    <script type="text/javascript">
+
+        var urls = new Array();
+        urls[0] = "text_1.html";
+        urls[1] = "text_2.html";
+        urls[2] = "text_3.html";
+      
+        var random = Math.floor(Math.random()*urls.length);
+      
+        window.location.href=urls[random];
+      
+      </script>
+</body>
+</html>
