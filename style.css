@@ -11,6 +11,13 @@ body {
     100% {background-position: 0% 50%;}
   }
 
+
+h1 {
+    margin: auto;
+    text-align: center;
+    color: #AAB2B1;
+}
+
 p {
     margin: auto;
     text-align: center;
